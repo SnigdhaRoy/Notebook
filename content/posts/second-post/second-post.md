@@ -1,13 +1,7 @@
 ---
-title: Second post
-description: The second post is the least memorable.
-date: 2020-04-17T11:00:00.000Z
+title: Economics - Basic Concepts
+description: Scarcity, Resource Allocation, Production Possibilities, and more!
+date: 2020-11-17T11:00:00.000Z
 ---
 
-# h1
-
-## h2
-
-### h3
-
-Normal text
+Let's learn about the basic concepts in economics! :-) 
