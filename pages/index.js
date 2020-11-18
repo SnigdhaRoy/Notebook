@@ -19,7 +19,7 @@ export default function Home({ posts }) {
         <button onClick={() => setTheme('dark')}>Dark Mode</button>
       </div> */}
 
-      {posts.map(({ frontmatter: { title, description, date}, slug }) => (
+      {posts.map(({ frontmatter: {title, description, date}, slug }) => (
         <article key={slug}>
           <header className="mb-2">
             <h3 className="mb-2">
@@ -39,9 +39,7 @@ export default function Home({ posts }) {
     </Layout>
   );
   } //Home.theme = "light"
-
-
-
+  
 export async function getStaticProps() {
   const posts = getSortedPosts();
 
