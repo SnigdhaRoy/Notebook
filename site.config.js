@@ -1,15 +1,15 @@
 export default {
   siteMetadata: {
-    title: "Next.js Starter Blog",
+    title: "Snigdha's Notebook",
     author: {
-      name: "Jose Felix",
-      summary: "who works building clean user interfaces with React.",
+      name: "Snigdha Roy.",
+      summary: "I like to understand things and explain them well to others ——— this is my commitment to self-assigned learning. ",
     },
     description: "A blog created with Next.js and Tailwind.css",
     siteUrl: "https://nextjs-starter-blog-demo.netlify.app/",
     language: "en-US",
     social: {
-      twitter: "Jose_R_Felix",
+      twitter: "snigdhar0y",
     },
   },
 };
