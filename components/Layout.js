@@ -28,7 +28,7 @@ export default function Layout({ children }) {
       <header>{header}</header>
       <main>{children}</main>
       <footer className="text-lg font-light">
-        © <a href = "https://snigdharoy.com">Snigdha Roy</a>  {new Date().getFullYear()}, built with{" "}
+        © <a href = "https://snigdharoy.com">Snigdha Roy</a> {new Date().getFullYear()}, built with{" "}
         <a href="https://nextjs.org/">Next.js.</a>
       </footer>
     </div>
