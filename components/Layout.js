@@ -17,7 +17,7 @@ export default function Layout({ children }) {
     <h1 className="mb-2">
       <Link href="/">
         <a className="text-2xl font-black text-black no-underline font-display">
-          Next.Js Starter Blog
+          Snigdha's Notebook ✍️
         </a>
       </Link>
     </h1>
