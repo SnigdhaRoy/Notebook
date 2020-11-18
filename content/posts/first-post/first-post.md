@@ -8,6 +8,4 @@ date: 2020-11-17T11:00:00.000Z
 
 Kinematics are fun! 
 
-<!-- ![Cat] (cat.jpg) -->
-
-![Kinematics] (kinematics.jpg)
+![Kinematics](kinematics.jpg)
