@@ -2,7 +2,9 @@ export default {
   siteMetadata: {
     title: "Snigdha's Notebook",
     author: {
-      name: "Snigdha!",
+      name: <a href={`https://snigdharoy.com`}>
+      Snigdha!
+    </a>,
       summary: "I like to understand things and explain them well to others — this is my commitment to self-assigned learning. ",
     },
     description: "A blog created with Next.js and Tailwind.css",
