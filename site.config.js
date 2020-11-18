@@ -1,6 +1,6 @@
 export default {
   siteMetadata: {
-    title: "",
+    title: "Snigdha's Notebook",
     author: {
       name: <a href={`https://snigdharoy.com`}>
       Snigdha!

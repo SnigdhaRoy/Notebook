@@ -10,7 +10,7 @@ export default function Home({ posts }) {
   // const { theme, setTheme } = useTheme();
   return (
     <Layout>
-      <SEO title="Snigdha's Notebook" />
+      <SEO title="" />
       <Bio className="my-14" />
 
       {/* <div>
