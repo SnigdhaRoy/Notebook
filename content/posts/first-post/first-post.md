@@ -1,15 +1,13 @@
 ---
-title: First post
-description: The first post is the most memorable one.
-date: 2020-04-16T11:00:00.000Z
+title: Kinematics
+description: Learning about Kinematics
+date: 2020-11-17T11:00:00.000Z
 ---
 
-# h1
+# Today, we'll talk about kinematics.
 
-## h2
+Kinematics are fun! 
 
-### h3
+<!-- ![Cat] (cat.jpg) -->
 
-Normal text
-
-![Cat](cat.jpg)
+![Kinematics] (kinematics.jpg)
