@@ -23,8 +23,8 @@ export default function SEO({ title, description = "" }) {
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={metaDescription} />
       <meta name="twitter:creator" content={siteMetadata.social.twitter} />
-      <link rel="icon" type="image/png" href="/public/favicon.ico" />
-      <link rel="apple-touch-icon" href="/public/favicon.ico" />
+      <link rel="icon" type="image/png" href="favicon.ico" />
+      <link rel="apple-touch-icon" href="/favicon.ico" />
     </Head>
   );
 }
