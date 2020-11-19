@@ -2,7 +2,7 @@
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 
-/* :root {
+:root {
   --fg: #000;
   --bg: #fff;
   --text: black;
@@ -10,20 +10,20 @@
 [data-theme="dark"] {
   --fg: #fff;
   --bg: #000;
-  --text: #fff
+  --text: #fff;
+}
 
-} */
-
-/* p, h1, h2, h3, h4 {
+p,
+h1,
+h2,
+h3,
+h4 {
   color: var(--text);
-} */
-
-
+}
 
 body {
   background-color: var(--bg);
-
- }
+}
 
 a {
   @apply text-neon-orange;
@@ -31,13 +31,11 @@ a {
 
 a:hover {
   @apply underline;
- 
 }
 
 span,
 p {
   @apply font-light;
- 
 }
 
 /* Styles for lazy loaded images */
@@ -45,11 +43,9 @@ p {
   -webkit-filter: blur(5px);
   filter: blur(5px);
   transition: filter 500ms ease-in, -webkit-filter 500ms ease-in;
-
 }
 
 .blur-up.lazyloaded {
   -webkit-filter: blur(0);
   filter: blur(0);
- 
 }
