@@ -14,11 +14,15 @@ export default function Home({ posts }) {
       <SEO title="" />
       <Bio className="my-14" />
 
-      <div>
-        The current theme is: {theme}
-        <button onClick={() => setTheme("light")}>Light Mode</button>
-        <button onClick={() => setTheme("dark")}>Dark Mode</button>
-      </div>
+      <button
+        className="px-4 py-2 text-white dark:text-black bg-black dark:bg-white font-semibold rounded-md"
+        onClick={() => {
+          console.log("Clicked");
+          setTheme(theme === "light" ? "dark" : "light");
+        }}
+      >
+        Change Theme
+      </button>
 
       {posts.map(({ frontmatter: { title, description, date }, slug }) => (
         <article key={slug}>
