@@ -13,16 +13,17 @@
   --text: #fff;
 }
 
-p,
-h1,
-h2,
-h3,
-h4 {
+* {
   color: var(--text);
 }
 
 body {
   background-color: var(--bg);
+}
+
+button {
+  background-color: var(--text);
+  color: var(--bg);
 }
 
 a {
@@ -38,7 +39,6 @@ p {
   @apply font-light;
 }
 
-/* Styles for lazy loaded images */
 .blur-up {
   -webkit-filter: blur(5px);
   filter: blur(5px);
@@ -48,4 +48,8 @@ p {
 .blur-up.lazyloaded {
   -webkit-filter: blur(0);
   filter: blur(0);
+}
+
+.main-heading {
+  color: var(--text);
 }
