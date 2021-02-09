@@ -16,3 +16,15 @@ II. Find relationships between those fundamental measured quantities (e.g., Newt
 
 Trying to describe an extremely complex universe with clarifying laws is what physics is all about :D
 
+# Let's define some key terms
+
+Coordinate system - System we define to describe position. The origin is the point we label as zero. Coordinate systems also define directions for positive and negative numbers.
+
+Position - Location of an object relative to the origin. We often use the symbol "x" to refer to position.
+
+Displacement - The change in position of an object. We use the symbol Δx for displacement, where Δ means "change." A vector quantity with units of distance.
+
+Distance - Total amount the object has moved. This depends on the whole path traveled, not just the starting and ending points. Distance traveled is always a non-negative number. A scalar quantity with units of distance.
+
+Reference frame / frame of reference - A point of view from which measurements can be made. All frames of reference are equally valid.
+
