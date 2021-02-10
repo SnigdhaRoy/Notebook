@@ -1,8 +1,9 @@
 ---
 title: Physics - Introduction to the Fundamentals
-description: Breaking down the bare parts of what makes physics the map of the universe
+description: Breaking down the bare rules of what makes physics the map of the universe
 date: 2021-02-09T11:00:00.000Z
 ---
+**Disclaimer: this is not a coherent lesson plan in any way, I'm just tranferring notes from my physical notebook to here for my personal retention. This is not really meant for anyone's learning purpose because the diagrams I drew with my side comments are not being transferred here. Hope you enjoy anyway! :D 
 
 # What is physics?
 
@@ -28,3 +29,40 @@ Distance - Total amount the object has moved. This depends on the whole path tra
 
 Reference frame / frame of reference - A point of view from which measurements can be made. All frames of reference are equally valid.
 
+Scalar Quantity - A distance that only shows magnitude, not direction 
+
+Vector Quantity - A distance that shows magnitude and direction 
+
+# Rules to Know 
+
+## Distance, Displacement, Velocity 
+
+- Distance is always positive, displacement can be negative and positive
+- Distance is the amount total traveled
+- Displacement is the exact amount of units it took to get to the final position 
+- Scalar quantities are the speed and distance, where they will always be positive 
+- Vector quantities are the velocity and displacement where they can also be negative, depending on the direction 
+- D = VT where D = distance or displacement AND V = velocity or speed. T = time
+- Average speed = distance / time  where Average velocity = displacement / time 
+
+## Acceleration 
+
+- Acceleration tells you how fast the speed -- or really, the velocity is changing 
+- acceleration - change in velocity / change in time 
+    - final velocity - initial velocity / time = change in velocity 
+- Any time the acceleration is positive, velocity will increase. Negative acceleration makes negative velocity 
+- Vf = V0 + at which means that the final velocity = initial velocity + acceleration(time) 
+
+
+## Gravitational Acceleration and Projectile Motion
+
+- G = -9.8 m/2^2 is the gravitational acceleration for the earth, it's a constant rule
+- Projectile Motion - a projectile is an object that is moving under the influence of gravity (friction and air resistance is ignored)
+- Gravitational acceleration affects vertical acceleration, not horizontal acceleration 
+
+## Newton's Laws of Motion 
+
+- 1st law of motion - An object at rest will remain at trest unless acted on by a force. Ab object in motion will continue in motion unless acted on by a net force. 
+
+- 2nd law of motion - The net force of an object is equal to the mass times the acceleration. 
+    - F = m*a  /// Fnet = mass * acceleration 
