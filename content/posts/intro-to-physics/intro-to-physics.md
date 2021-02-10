@@ -15,7 +15,7 @@ I. Precisely define the most fundamental measurable quantities in the universe (
 
 II. Find relationships between those fundamental measured quantities (e.g., Newton’s Laws, conservation of energy, special relativity). These patterns and correlations are expressed using words, equations, graphs, charts, diagrams, models, and any other means that allow us to express a relationship in a way that we as humans can better understand and use. Math makes things simpler.
 
-Trying to describe an extremely complex universe with clarifying laws is what physics is all about :D
+Trying to describe an extremely complex universe with clarifying laws is what physics is all about :)
 
 # Let's define some key terms
 
@@ -56,15 +56,15 @@ Vector Quantity - A distance that shows magnitude and direction
 
 ## Gravitational Acceleration and Projectile Motion
 
-- G = -9.8 m/2^2 is the gravitational acceleration for the earth, it's a constant rule
+- G = -9.8 m/2^2 is the gravitational acceleration for the earth, it's a solid rule
 - Projectile Motion - a projectile is an object that is moving under the influence of gravity (friction and air resistance is ignored)
 - Gravitational acceleration affects vertical acceleration, not horizontal acceleration 
 
 ## Newton's Laws of Motion 
 
-- 1st law of motion - An object at rest will remain at trest unless acted on by a force. Ab object in motion will continue in motion unless acted on by a net force. 
+- 1st law of motion - An object at rest will remain at rest unless acted on by a force. An object in motion will continue in motion unless acted on by a net force. 
 
 - 2nd law of motion - The net force of an object is equal to the mass times the acceleration. 
     - F = m*a  /// Fnet = mass * acceleration 
-    
+
 - 3rd law of motion - for every action (force) in nature there is an equal and opposite reaction. In other words, if object A exerts a force on object B, then object B also exerts an equal and opposite force on object A
