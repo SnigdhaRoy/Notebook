@@ -66,3 +66,5 @@ Vector Quantity - A distance that shows magnitude and direction
 
 - 2nd law of motion - The net force of an object is equal to the mass times the acceleration. 
     - F = m*a  /// Fnet = mass * acceleration 
+    
+- 3rd law of motion - for every action (force) in nature there is an equal and opposite reaction. In other words, if object A exerts a force on object B, then object B also exerts an equal and opposite force on object A
